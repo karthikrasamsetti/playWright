@@ -1,0 +1,27 @@
+{   
+    "personalDetails" : {
+       
+        "firstname" : "karthik",
+        "lastname" : "Teja",
+        "company" : "abc",
+        "date" : "12",
+        "month" : "December",
+        "year" : "2001",
+        "fullname":"karthik raja"
+    },
+
+    "message" : {
+        "errorMsg" : "Login was unsuccessful. Please correct the errors and try again."
+    },
+
+    "navBarText" : [
+        "Computers ",
+        "Electronics ",
+        "Apparel ",
+        "Digital downloads ",
+        "Books ",
+        "Jewelry ",
+        "Gift Cards "
+    ]
+
+}
